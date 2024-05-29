@@ -1,3 +1,8 @@
+//20211067 전성은
+//2-1~2-4 완료
+//3은 아직 하지 않음
+
+
 #include <Windows.h>
 #include <stdio.h>
 #include <stdlib.h>
